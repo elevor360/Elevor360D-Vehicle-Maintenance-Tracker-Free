@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rotationSeconds": 8,
+  "ads": [
+    {
+      "id": "cv-builder-promo",
+      "type": "own",
+      "title": "Advertise with Elevor360D",
+      "business": "Elevor360D",
+      "description": "Promote your business to app users.",
+      "url": "https://elevor360d.co.uk/advertise.html",
+      "image": "images/elevor360d-advert.jpg",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "business",
+      "appIds": []
+    }
+  ]
+}

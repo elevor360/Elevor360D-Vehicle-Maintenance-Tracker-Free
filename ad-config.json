@@ -1,6 +1,6 @@
 {
   "feedUrl": "advertising/adverts.json",
   "appId": "vehicle-maintenance-tracker-free",
-  "group": "lifestyle",
+  "group": "business",
   "refreshMinutes": 30
 }
